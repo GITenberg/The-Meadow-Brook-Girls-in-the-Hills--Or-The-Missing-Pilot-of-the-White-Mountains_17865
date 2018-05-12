@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5139'
     url: http://www.gutenberg.org/2009/agents/5139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17865#The-Meadow-Brook-Girls-in-the-Hills--Or-The-Missing-Pilot-of-the-White-Mountains
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
