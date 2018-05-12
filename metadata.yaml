@@ -1,0 +1,27 @@
+_repo: The-Meadow-Brook-Girls-in-the-Hills--Or-The-Missing-Pilot-of-the-White-Mountains_17865
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aldridge, Janet
+    gutenberg_agent_id: '5139'
+    url: http://www.gutenberg.org/2009/agents/5139
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'White Mountains (N.H. and Me.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hiking -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+title: The Meadow-Brook Girls in the Hills; Or, The Missing Pilot of the White Mountains
+url: http://www.gutenberg.org/ebooks/17865
